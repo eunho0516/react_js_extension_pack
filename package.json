@@ -1,0 +1,32 @@
+{
+  "name": "react-typescript",
+  "displayName": "React js",
+  "description": "React js Extension Pack: Pretty TS Errors, Turbo Console Log, Backticks, React Component Spy, Simple React Snippets, Path Intellisense, JSON2TS",
+  "publisher": "tsholic",
+  "author": "ts-holic",
+  "version": "1.3.0",
+  "icon": "./media/react.png",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "react.js",
+    "typescript",
+    "tsx",
+    "ts"
+  ],
+  "license": "MIT",
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "yoavbls.pretty-ts-errors",
+    "chakrounanas.turbo-console-log",
+    "fractalbrew.backticks",
+    "burkeholland.simple-react-snippets",
+    "christian-kohler.path-intellisense",
+    "gregorbiswanger.json2ts"
+  ]
+}
